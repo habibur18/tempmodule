@@ -1,0 +1,64 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Men's Running Shoes",
+      "description": "Comfortable and durable running shoes for men.",
+      "price": 89.99,
+      "shoes_data": {
+        "size": "10",
+        "color": "Black"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Women's Sneakers",
+      "description": "Stylish and lightweight sneakers for women.",
+      "price": 69.99,
+      "shoes_data": {
+        "size": "8",
+        "color": "White"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Kid's Sports Shoes",
+      "description": "Fun and supportive sports shoes for kids.",
+      "price": 49.99,
+      "shoes_data": {
+        "size": "5",
+        "color": "Blue"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Men's Formal Shoes",
+      "description": "Classic and elegant formal shoes for men.",
+      "price": 129.99,
+      "shoes_data": {
+        "size": "9",
+        "color": "Brown"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Women's Boots",
+      "description": "Warm and stylish boots for women.",
+      "price": 79.99,
+      "shoes_data": {
+        "size": "7",
+        "color": "Black"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Kid's Sandals",
+      "description": "Comfortable and colorful sandals for kids.",
+      "price": 29.99,
+      "shoes_data": {
+        "size": "4",
+        "color": "Pink"
+      }
+    }
+  ]
+}
